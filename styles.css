@@ -1,0 +1,64 @@
+
+
+
+body {
+  background-color: #204a49;
+}
+
+.container {
+  padding: 25px;
+}
+
+nav {
+  height: 100px;
+}
+
+nav ul {
+  list-style-type: none;
+  color: #fff;
+}
+
+nav ul li {
+  display: inline;
+  padding-right: 25px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #fff;
+}
+
+h1 {
+  color: #fff;
+  font-size: 3rem;
+}
+
+p {
+  font-size: 1.5rem;
+  color: #fff;
+}
+
+.button-primary {
+  background-color: #f2b3a2;
+  padding: 18px 40px;
+  border-radius: 50px;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.outer-button-spacing {
+  margin-top: 60px;
+}
+
+.homepage-hero {
+  max-width: 300px;
+}
+
+.flexin {
+  display: flex;
+}
+
+.component-white {
+  background-color: #bdbfc1;
+  flex-direction: row-reverse;
+}

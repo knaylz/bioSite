@@ -62,3 +62,7 @@ p {
   background-color: #bdbfc1;
   flex-direction: row-reverse;
 }
+
+.img-border {
+  border-radius: 20px;
+}

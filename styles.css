@@ -66,3 +66,34 @@ p {
 .img-border {
   border-radius: 20px;
 }
+
+#image-gallery {
+  margin-top: 5%;
+  display: grid;
+  grid-template-columns: auto auto auto;
+}
+
+.gallery-item {
+  border-radius: 15px;
+  padding: 5px;
+}
+
+.gallery-title {
+  text-align: center;
+  font-family: 'Oswald', Verdana, Arial, sans-serif;
+  font-weight: 400;
+}
+
+figure {
+  text-align: center;
+  color: #fff;
+}
+
+h3 {
+  color: #fff;
+}
+
+.gallery-img {
+  max-width: 50%;
+  text-align: center;
+}
